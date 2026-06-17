@@ -5,6 +5,7 @@ https://youtu.be/yfonb-g2Hls?feature=shared :)
 
 example:the acceleration(let's say of a car where there is a human with a cellphone which is off) is straight forward on the ground surface giving acceleration let's say 0-100km/h is 2 seconds for a Ferrari(a fast car)
 -->goes like this arrow but    
+
 ^
 |                   the arrow shifts direction to almost 90 degrees vertically for missiles--->for a hypersonic missile 2km/s(vertically) is a normal acceleration..
 
