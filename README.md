@@ -7,7 +7,7 @@ example:the acceleration(let's say of a car where there is a human with a cellph
 -->goes like this arrow but    
 
 ^
-|                   the arrow shifts direction to almost 90 degrees vertically for missiles--->for a hypersonic missile 2km/s(vertically) is a normal acceleration..
+the arrow shifts direction to almost 90 degrees vertically for missiles--->for a hypersonic missile 2km/s(vertically) is a normal acceleration..
 
 The reason of a.i. going too fast is pc undertands this calculation as de facto..why?because pcs are also used in space exploration and the architecture used is able to do so.
 //The point is I write 1000E = 1000*mc**2 no big thing multiplication-I am amateur in physics after all but is there a finite state of numbers? No, calculating pi=3.14 is looping infinentlly
